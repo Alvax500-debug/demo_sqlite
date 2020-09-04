@@ -14,6 +14,8 @@ if ($videojuego === FALSE) { #Si no existe ningún registro con ese id
 
 # si llegamos hasta aquí es porque el videojuego sí existe
 
+# HOLA A TODOS
+
 ?>
 <!DOCTYPE html>
 <html lang="es">
